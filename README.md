@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Willkommen bei Arooesh Systems
 
-<!--
-**Arooesh/Arooesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Entwickler • Infrastruktur • Sicherheit • Apps
 
-Here are some ideas to get you started:
+Ich entwickle moderne Systeme rund um:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Cyber Security
+- 🖥️ Linux Server
+- 🌐 Web Entwicklung
+- 📱 App Entwicklung
+- 🎮 FiveM Frameworks
+- ⚡ Sicherheitstechnik
+- ☁️ Infrastruktur & Automatisierung
+
+---
+
+# 🚀 Aktuelle Projekte
+
+## 🔐 Arooesh Safe
+Moderner AES-256 Passwortmanager mit:
+- Geräteverwaltung
+- 2FA
+- Wallet-System
+- Datei-Tresor
+- Peer-to-Peer Synchronisation
+
+## 💰 Arooesh Finanzverwaltung
+Finanz- & OCR-System mit:
+- Belegerkennung
+- PDF Verarbeitung
+- Steuer-Kategorien
+- Export Funktionen
+
+## 🎮 Arooesh RP Framework
+Eigenes FiveM Framework:
+- Core
+- Banking
+- Inventory
+- HUD
+- Character System
+- Admin Tools
+
+---
+
+# 🛠️ Technologien
+
+```txt
+Python
+Flask
+Node.js
+MariaDB
+Linux
+NGINX
+Flutter
+JavaScript
+Lua
+Docker
